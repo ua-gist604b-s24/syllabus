@@ -54,7 +54,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
 |  7-0 WebGIS - Leaflet I | 4/21 | | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS with Flask** |  |  |  |
-|  8-0 WebGIS - Flask+JQuery+Leaflet | 4/26 | | 50 |
+|  8-0 WebGIS - FastAPI+JQuery+Leaflet | 4/26 | | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 8: GDAL/OGR** |  |  |  |
 |  9-0 GDAL | 4/28 | | 50 |
 
