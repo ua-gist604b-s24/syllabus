@@ -22,7 +22,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 10/15 | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/bIDfU6rH) | 10/14 | 10/21 | 50 |
-|  [0-1 Open Source Discovery](https://classroom.github.com/a/5k3Nl3J0) | 10/21 | 10/21 | 50 |
+|  [0-1 Open Source Discovery](https://classroom.github.com/a/5k3Nl3J0) | 10/14 | 10/21 | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/LKUbHbjR) | 10/14 | 10/21 | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/AQI6lR3W) | 10/14 | 10/21 | 50 |
