@@ -22,37 +22,28 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
 | ![zoom icon](./media/play-icon.png) Lecture 10/15 | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/bIDfU6rH) | 10/14 | 10/21 | 50 |
-|  [0-1 Open Source Discovery](https://classroom.github.com/a/5k3Nl3J0) | 10/21 | 4/11 | 50 |
+|  [0-1 Open Source Discovery](https://classroom.github.com/a/5k3Nl3J0) | 10/21 | 10/21 | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/LKUbHbjR) | 10/14 | 10/21 | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/AQI6lR3W) | 10/14 | 10/21 | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 10/16 | | | |
 |  2-0 QGIS Tutorials (Intro) | 10/16 | 10/23 | 50 |
 |  2-1 QGIS Tutorials (Intermediate) | 10/16 | 10/23 | 50 |
-|  2-2 QGIS Tutorials (Advanced) | 10/16 | 10/23 | 50 |
-| ![zoom icon](./media/play-icon.png) [Lecture 3/21](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=0f31d1d5-b8c5-4821-8074-afcd003af2f6) | | | |
-|  2-3 QGIS Hurricane | 10/21 | 4/28 | 50 |
-|  2-4 QGIS Secret Mutant Hero Team | 10/21 | 10/28 | 50 |
+|  2-2 QGIS Tutorials (Advanced) | 10/18 | 10/25 | 50 |
+|  2-3 QGIS Secret Mutant Hero Team | 10/18 | 10/25 | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
-|  ![zoom icon](media/play-icon.png) _Lecture 10/23_ |  |  |  |
 |  3-0 Codespace Intro | 10/23 | 10/31 | 20 |
 |  3-1 Python Pandas | 10/23 | 10/31 | 50 |
 |  3-2 Python GeoPandas Intro | 10/23 | 10/31 | 50 |
-| ![zoom icon](./media/play-icon.png) _Lecture 3/28_ | | | |
 |  3-3 Python GeoPandas Join | 10/28 | 11/4 | 50 |
 |  3-4 Python Rasterio | 10/28 | 11/4 | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
-| ![zoom icon](./media/play-icon.png) _Lecture 3/30_ | | | |
 |  4-0 Docker | 10/30 | 11/6 | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 11/4 | | | |
 |  5-0 PostGIS Intro | 11/4 | 11/11 | 50 |
-| ![zoom icon](./media/play-icon.png) Lecture 4/6 | | | |
 |  5-1 PostGIS OSM Load | 11/6 | 11/13 | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
-| ![zoom icon](./media/play-icon.png) Lecture 4/11 | | | |
 |  6-0 Geoserver Intro | 11/11 | 11/18 | 50 |
 |  6-1 Geoserver OSM I | 11/13 | 11/20 | 50 |
 |  6-2 Geoserver OSM II | 11/13 | 11/20 | 50 |
