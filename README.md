@@ -1,6 +1,6 @@
 # GIST604B Open Source GIS
-### Course starts: March 13, 2023
-### Course ends: May 3, 2023
+### Course starts: October 12, 2023
+### Course ends: December 6, 2023
 ## WELCOME!
 
 Greetings from GIST 604B, Open Source GIS! I'm Aaryn Olsson, the instructor for this course. 
