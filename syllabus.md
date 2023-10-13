@@ -4,10 +4,10 @@
 
 ### Instructor: Dr. Aaryn Olsson 
 ### Email: aaryn@email.arizona.edu
-### Availability by email and through slack
+### Availability by email
 
 ## Course Description
-In this course you will learn about the open source software paradigm including how open source software is developed, released, and maintained. You will be introduced to three core open source GIS software technologies: QGIS, PostGIS, Geoserver, and OpenLayers
+In this course you will learn about the open source software paradigm including how open source software is developed, released, and maintained. You will be introduced to three core open source GIS software technologies: QGIS, PostGIS, Geoserver, Leaflet, gdal, and more.
 
 ## Course Objectives and Learning Outcomes
 You will understand the Open Source software development philosophy and have basic knowledge of the Software Development Life Cycle. 
@@ -23,9 +23,10 @@ You will be able to write basic PostGIS queries with the assistance of postgis.n
 You will be familiar with docker and containerization concepts.
 You will understand core client-server architecture concepts and understand which GIS components belong to which class.
 You will be able to create a webpage containing interactive GIS maps that allow you to add/edit/remove data, switch data sources, and a variety of web mapping tasks.
+You will understand how web map tiling works.
 
 ## Participation
-Interactive participation through Slack and Zoom are encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
+Interactive participation through Zoom is encouraged but not graded. You will get more out of the class and your career by engaging your colleagues. 
 
 As it is a course about Open Source, we will emphasize the open source tools or practices where possible. Course content will be delivered through GitHub some course content will be available through d2l.
 
