@@ -11,11 +11,9 @@ This class is logically divided into units to be completed over a seven-week tim
 - [Zoom](https://arizona.zoom.us/j/86790732262)
 - [Zoom folder](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%22fb4ca4a3-0984-433c-93d7-b09a010a4c75%22) (raw cloud recordings land here before they are edited and shared to this doc)
 - [D2L](https://d2l.arizona.edu/d2l/home/1369966)
-- [Piazza](https://piazza.com/class/lf30l5i7eb755w)
+- [Piazza](https://piazza.com/arizona/fall2023/gist604b/home)
 
-### D2L link:
-[D2l
-### Piazza link: [Piazza](https://piazza.com/class/lf30l5i7eb755w)
+### Schedule
 
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
