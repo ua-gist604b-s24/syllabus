@@ -22,6 +22,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [0-0 GitHub Hello](https://classroom.github.com/a/yhqoI18o) | 10/14 | 10/21 | 50 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/KdTUrdsP) | 10/14 | 10/21 | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
+| ![zoom icon](./media/play-icon.png) [Lecture 10/15](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2de470a6-88ef-45b9-9402-b09c015ff275) | | | |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/RYVSrLYo) | 10/14 | 10/21 | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/wd_nHDvJ) | 10/14 | 10/21 | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
