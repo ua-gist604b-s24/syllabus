@@ -45,7 +45,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  6-0 Geoserver Intro | 11/11 | 11/18 | 50 |
 |  6-1 Geoserver OSM I | 11/13 | 11/20 | 50 |
 |  6-2 Geoserver OSM II | 11/13 | 11/20 | 50 |
-|  **Module 7: Map Tiling** |  |  |  |
+|  **![titiler](./media/titiler-32.png) Module 7: Map Tiling** |  |  |  |
 |  7-0 Map Tiling | 11/13 | 11/20 | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  8-0 WebGIS - Leaflet I | 11/21 | 11/28 | 50 |
