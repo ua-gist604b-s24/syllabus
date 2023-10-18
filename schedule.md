@@ -26,10 +26,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/RYVSrLYo) | 10/14 | 10/21 | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/wd_nHDvJ) | 10/14 | 10/21 | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
-|  2-0 QGIS Tutorials (Intro) | 10/16 | 10/23 | 50 |
-|  2-1 QGIS Tutorials (Intermediate) | 10/16 | 10/23 | 50 |
-|  2-2 QGIS Tutorials (Advanced) | 10/18 | 10/25 | 50 |
-|  2-3 QGIS Secret Mutant Hero Team | 10/18 | 10/25 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture 10/17]
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/iwP6uBm4) | 10/17 | 10/24 | 50 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/_dVX5V08) | 10/17 | 10/24 | 50 |
+|  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/FbV58THt) | 10/19 | 10/26 | 50 |
+|  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/w9JTyFBR) | 10/19 | 10/26 | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  3-0 Codespace Intro | 10/23 | 10/31 | 20 |
