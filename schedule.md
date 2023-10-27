@@ -33,13 +33,13 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/w9JTyFBR) | 10/19 | 10/26 | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
-|  3-0 Codespace Intro | 10/23 | 10/31 | 20 |
-|  3-1 Python Pandas | 10/23 | 10/31 | 50 |
-|  3-2 Python GeoPandas Intro | 10/23 | 10/31 | 50 |
-|  3-3 Python GeoPandas Join | 10/28 | 11/4 | 50 |
-|  3-4 Python Rasterio | 10/28 | 11/4 | 50 |
+|  3-0 Codespace Intro | 10/23 | 11/4 | 20 |
+|  3-1 Python Pandas | 10/28 | 11/4 | 50 |
+|  3-2 Python GeoPandas Intro | 10/28 | 10/31 | 50 |
+|  3-3 Python GeoPandas Join | 10/30 | 11/6 | 50 |
+|  3-4 Python Rasterio | 10/30 | 11/6 | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
-|  4-0 Docker | 10/30 | 11/6 | 50 |
+|  4-0 Docker | 11/4 | 11/11 | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
 |  5-0 PostGIS Intro | 11/4 | 11/11 | 50 |
 |  5-1 PostGIS OSM Load | 11/6 | 11/13 | 50 |
