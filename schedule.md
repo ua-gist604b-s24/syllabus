@@ -18,26 +18,27 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture 10/15](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2de470a6-88ef-45b9-9402-b09c015ff275) | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture - Open Source](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2de470a6-88ef-45b9-9402-b09c015ff275) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/yhqoI18o) | 10/14 | 10/21 | 50 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/KdTUrdsP) | 10/14 | 10/21 | 50 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture 10/15](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2de470a6-88ef-45b9-9402-b09c015ff275) | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture - Git SCM](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2de470a6-88ef-45b9-9402-b09c015ff275) | | | |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/RYVSrLYo) | 10/14 | 10/21 | 50 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/wd_nHDvJ) | 10/14 | 10/21 | 50 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture 10/17](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ae8fc42-8af6-4348-b476-b09f00158b1e) | | | |
+| ![zoom icon](./media/play-icon.png) [Lecture - QGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2ae8fc42-8af6-4348-b476-b09f00158b1e) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/iwP6uBm4) | 10/17 | 10/24 | 50 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/_dVX5V08) | 10/17 | 10/24 | 50 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/FbV58THt) | 10/19 | 10/26 | 50 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/w9JTyFBR) | 10/19 | 10/26 | 50 |
 |  **![python](./media/python-32.png) Module 3: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
+| ![zoom icon](./media/play-icon.png) [Lecture - Codepace, Pandas, and Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=161829a4-e75a-485b-9548-b0aa012b877b) | | | |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/c8NirKGu) | 10/28 | 11/4 | 20 |
 |  [3-1 Python Pandas](https://classroom.github.com/a/KryEBv9l) | 10/28 | 11/4 | 50 |
 |  [3-2 Python GeoPandas Intro](https://classroom.github.com/a/ptsosPG5) | 10/28 | 11/4 | 50 |
-|  [3-3 Python GeoPandas Join]() | 10/30 | 11/6 | 50 |
-|  [3-4 Python Rasterio]() | 10/30 | 11/6 | 50 |
+|  [3-3 Python GeoPandas Join](https://classroom.github.com/a/1MaS4ClG) | 10/30 | 11/6 | 50 |
+|  [3-4 Python Rasterio](https://classroom.github.com/a/h_UPZpFG) | 10/30 | 11/6 | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
 |  4-0 Docker | 11/4 | 11/11 | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
