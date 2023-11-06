@@ -42,6 +42,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture - Geopandas Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=27b7fee3-c022-4fdd-b9d9-b0aa01656bf9) | | | |
 |  [3-4 Python Rasterio](https://classroom.github.com/a/h_UPZpFG) | 10/30 | 11/6 | 50 |
 |  **![docker](./media/docker-32.png) Module 4: Docker** |  |  |  |
+| ![zoom icon](./media/play-icon.png) [Lecture - Docker](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=662503c3-48b1-44a9-b1a9-b0b200311fac) | | | |
 |  [4-0 Docker](https://classroom.github.com/a/L6SnS1GO) | 11/4 | 11/11 | 50 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/Kzr77u3u) | 11/4 | 11/11 | 50 |
