@@ -47,6 +47,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - PostGIS](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=70812158-b35b-4122-b6b0-b0b20052c0fc) | | | |
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/Kzr77u3u) | 11/4 | 11/11 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture - PostGIS OSM](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acf580e5-3214-43e7-a439-b0b50045ed00) | | | |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/IFQMRXnp) | 11/6 | 11/13 | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
 |  6-0 Geoserver Intro | 11/11 | 11/18 | 50 |
