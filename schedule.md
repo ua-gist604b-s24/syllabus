@@ -52,7 +52,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - Geoserver](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfd92e6c-8855-487a-8688-b0b90021b683)
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/R9PBaBaG) | 11/11 | 11/18 | 50 |
-| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver OSM I]()
+| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver OSM I](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=ab7ead84-a125-46be-9be1-b0b9003a16de)
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/HVBEeyEY) | 11/13 | 11/20 | 50 |
 | ![zoom icon](./media/play-icon.png) [Lecture - Geoserver OSM II]()
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/lLK8iXc1) | 11/13 | 11/20 | 50 |
