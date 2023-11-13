@@ -50,13 +50,15 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture - PostGIS OSM](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=acf580e5-3214-43e7-a439-b0b50045ed00) | | | |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/IFQMRXnp) | 11/8 | 11/15 | 50 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver]()
+| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=dfd92e6c-8855-487a-8688-b0b90021b683)
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/R9PBaBaG) | 11/11 | 11/18 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver OSM I]()
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/HVBEeyEY) | 11/13 | 11/20 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture - Geoserver OSM II]()
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/lLK8iXc1) | 11/13 | 11/20 | 50 |
 |  **![titiler](./media/titiler-32.png) Module 7: Map Tiling** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - Map Tiling]
-|  7-0 Map Tiling | 11/13 | 11/20 | 50 |
+|  7-0 Map Tiling | 11/15 | 11/22 | 50 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - WebGIS]
 |  8-0 WebGIS - Leaflet I | 11/21 | 11/28 | 50 |
