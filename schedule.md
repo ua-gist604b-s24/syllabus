@@ -63,7 +63,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture - Leaflet]
 |  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/CLSU7DxW) | 11/21 | 11/28 | 50 |
 | ![zoom icon](./media/play-icon.png) [Lecture - Python FastAPI]
-|  [8-1 WebGIS - Python Web App **not ready**](https://classroom.github.com/a/WaeWwa73) | 11/26 | 12/4 | 50 |
+|  8-1 WebGIS - Python Web App [**not ready**](https://classroom.github.com/a/WaeWwa73) | 11/26 | 12/4 | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - GDAL]
 |  [9-0 GDAL](https://classroom.github.com/a/LgPlVbHI) | 11/28 | 12/5 | 50 |
