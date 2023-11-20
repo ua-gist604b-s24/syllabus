@@ -58,14 +58,15 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/lLK8iXc1) | 11/13 | 11/20 | 50 |
 |  **![titiler](./media/titiler-32.png) Module 7: Map Tiling** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - Map Tiling]
-|  7-0 Map Tiling | 11/15 | 11/22 | 50 |
+|  ~7-0 Map Tiling~ |  |  |  |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture - WebGIS]
-|  8-0 WebGIS - Leaflet I | 11/21 | 11/28 | 50 |
-|  8-1 WebGIS - FastAPI+Leaflet | 11/26 | 12/4 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture - Leaflet]
+|  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/CLSU7DxW) | 11/21 | 11/28 | 50 |
+| ![zoom icon](./media/play-icon.png) [Lecture - Python FastAPI]
+|  [8-1 WebGIS - Python Web App](https://classroom.github.com/a/WaeWwa73) | 11/26 | 12/4 | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - GDAL]
-|  9-0 GDAL | 11/28 | 12/5 | 50 |
+|  [9-0 GDAL](https://classroom.github.com/a/LgPlVbHI) | 11/28 | 12/5 | 50 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
