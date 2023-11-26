@@ -60,7 +60,7 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](./media/play-icon.png) [Lecture - Map Tiling]
 |  ~7-0 Map Tiling~ |  |  |  |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
-| ![zoom icon](./media/play-icon.png) [Lecture - Leaflet]
+| ![zoom icon](./media/play-icon.png) [Lecture - Leaflet](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47b39deb-2b86-4649-a095-b0c6003ba900)
 |  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/CLSU7DxW) | 11/21 | 11/28 | 50 |
 | ![zoom icon](./media/play-icon.png) [Lecture - Python FastAPI]
 |  8-1 WebGIS - Python Web App [**not ready**](https://classroom.github.com/a/WaeWwa73) | 11/26 | 12/4 | 50 |
