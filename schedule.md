@@ -61,9 +61,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  ~7-0 Map Tiling~ |  |  |  |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - Leaflet](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=47b39deb-2b86-4649-a095-b0c6003ba900)
-|  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/CLSU7DxW) | 11/21 | 11/28 | 50 |
+|  [8-0 WebGIS - Leaflet](https://classroom.github.com/a/CLSU7DxW) | 11/24 | 12/3 | 50 |
 | ![zoom icon](./media/play-icon.png) [Lecture - Python FastAPI]
-|  8-1 WebGIS - Python Web App [**not ready**](https://classroom.github.com/a/WaeWwa73) | 11/26 | 12/4 | 50 |
+|  ~8-1 WebGIS - Python Web App~ | | | 50 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
 | ![zoom icon](./media/play-icon.png) [Lecture - GDAL](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d891f3ff-1511-4b5d-865f-b0c8002f3b60)
 |  [9-0 GDAL](https://classroom.github.com/a/LgPlVbHI) | 11/28 | 12/5 | 50 |
