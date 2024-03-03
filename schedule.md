@@ -29,8 +29,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/_7rhW51U) | 3/13 | 3/20 | 10 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/-FWbMNKS) | 3/13 | 3/20 | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
-|  3-0 Codespace Intro | 3/20 | 3/27 | 10 |
-|  3-1 Docker | 3/20 | 3/27 | 10 |
+|  [3-0 Codespace Intro](https://classroom.github.com/a/OOdam6WB) | 3/20 | 3/27 | 10 |
+|  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  4-1 Python Pandas | 3/25 | 4/1 | 10 |
