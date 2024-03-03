@@ -19,10 +19,10 @@ This class is logically divided into units to be completed over a seven-week tim
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/8FVZrdks) | 3/11 | 3/18 | 10 |
-|  [0-1 Open Source Discovery]() | 3/11 | 3/18 | 10 |
+|  [0-1 Open Source Discovery](https://classroom.github.com/a/LuNel1UU) | 3/11 | 3/18 | 10 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
-|  [1-0 GitHub Branch]() | 3/11 | 3/18 | 10 |
-|  [1-1 GitHub Desktop]() | 3/11 | 3/18 | 10 |
+|  [1-0 GitHub Branch](https://classroom.github.com/a/J2H9HitQ) | 3/11 | 3/18 | 10 |
+|  [1-1 GitHub Desktop](https://classroom.github.com/a/Q-dRA1rw) | 3/11 | 3/18 | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
 |  [2-0 QGIS Tutorials (Intro) | 3/13 | 3/20 | 10 |
 |  [2-1 QGIS Tutorials (Intermediate) | 3/13 | 3/20 | 10 |
