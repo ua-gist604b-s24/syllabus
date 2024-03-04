@@ -44,11 +44,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/gs04MuH-) | 4/8 | 4/15 | 10 |
 |  [6-1 Geoserver OSM I](https://classroom.github.com/a/E_X5jsHz) | 4/10 | 4/17 | 10 |
 |  [6-2 Geoserver OSM II](https://classroom.github.com/a/yEerllAG) | 4/15 | 4/22 | 10 |
-|  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
-|  8-0 WebGIS - Leaflet | 4/17 | 4/24 | 10 |
-|  8-1 WebGIS - Python Web App | 4/22| 4/29 | 10 |
+|  **![leaflet](./media/leaflet-32.png) Module 7: WebGIS** |  |  |  |
+|  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/1ZtZSAfj) | 4/17 | 4/24 | 10 |
+|  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/t0zH1ytq) | 4/22| 4/29 | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
-|  9-0 GDAL | 4/24 | 5/1 | 10 |
+|  8-0 GDAL | 4/24 | 5/1 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
