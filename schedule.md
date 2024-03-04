@@ -8,8 +8,8 @@ This class is logically divided into units to be completed over a seven-week tim
 - Last day of classes:  Dec 6, 2023
 
 ### Important links:
-- [Zoom](https://arizona.zoom.us/j/83851001447)
-- [Zoom folder]() (raw cloud recordings land here before they are edited and shared to this doc)
+- [Zoom](https://arizona.zoom.us/j/87408592707)
+- [Panopto folder](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?embedded=1#folderID=%2297ef9efa-336a-4834-9815-b129011280c2%22) (zoom cloud recordings)
 - [D2L](https://d2l.arizona.edu/d2l/home/1435548)
 - [Discussions](https://github.com/ua-gist604b-s24/syllabus/discussions)
 
