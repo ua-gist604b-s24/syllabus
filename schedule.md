@@ -4,8 +4,8 @@
 This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
 ### Key Dates (see [Registrar Dates and Deadlines](https://registrar.arizona.edu/dates-and-deadlines))
-- Class begins: Oct 12, 2023
-- Last day of classes:  Dec 6, 2023
+- Class begins: Mar 11, 2024
+- Last day of classes:  May 1, 2024
 
 ### Important links:
 - [Zoom](https://arizona.zoom.us/j/87408592707)
