@@ -48,7 +48,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [7-0 WebGIS - Leaflet](https://classroom.github.com/a/1ZtZSAfj) | 4/17 | 4/24 | 10 |
 |  [7-1 WebGIS - Python Web App](https://classroom.github.com/a/t0zH1ytq) | 4/22| 4/29 | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
-|  8-0 GDAL | 4/24 | 5/1 | 10 |
+|  [8-0 GDAL](https://classroom.github.com/a/n9T6lDfS) | 4/24 | 5/1 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
