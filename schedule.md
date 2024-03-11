@@ -8,8 +8,7 @@ This class is logically divided into units to be completed over a seven-week tim
 - Last day of classes:  May 1, 2024
 
 ### Important links:
-- [Zoom]()
-- [Zoom folder]() (raw cloud recordings land here before they are edited and shared to this doc)
+- [Zoom](https://arizona.zoom.us/j/83740442775)
 - [D2L](https://d2l.arizona.edu/d2l/home/1435548)
 - [Discussions](https://github.com/ua-gist604b-s24/syllabus/discussions)
 
