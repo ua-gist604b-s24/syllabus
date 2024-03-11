@@ -41,14 +41,11 @@ You may wonder how to get started. If you login to D2L you will find things a bi
 1) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). For the sake of class management, please try to pick a username that is close to your NetID or includes your name. 
 
 2) Review this GitHub repository:
-  - https://github.com/ua-gist604b-s23/syllabus
+  - https://github.com/ua-gist604b-s24/syllabus
   You will see that it contains three files:
     - this document: [README.md](README.md) 
     - the syllabus: [syllabus.md](syllabus.md)
     - the class schedule: [schedule.md](schedule.md)
-
-3) Login to the Piazza workspace: 
-  - https://piazza.com/class/lf30l5i7eb755w
   
 4) Review the syllabus
 
