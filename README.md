@@ -1,6 +1,6 @@
 # GIST604B Open Source GIS
-### Course starts: October 12, 2023
-### Course ends: December 6, 2023
+### Course starts: March 11, 2024
+### Course ends: May 12, 2024
 ## WELCOME!
 
 Greetings from GIST 604B, Open Source GIS! I'm Aaryn Olsson, the instructor for this course. 
@@ -36,7 +36,7 @@ Remote students: The following are required in order to complete this class remo
 - Docker Hub
 
 ### Getting Started
-You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-f22/syllabus). You have two initial setup steps to get configured to use the class:
+You may wonder how to get started. If you login to D2L you will find things a bit bare (The Syllabus is linked there but its home is https://github.com/ua-gist604b-s24/syllabus). You have two initial setup steps to get configured to use the class:
 
 1) Create a GitHub.com account if you do not already have one with [this link](https://github.com/join). For the sake of class management, please try to pick a username that is close to your NetID or includes your name. 
 
