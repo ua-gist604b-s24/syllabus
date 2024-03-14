@@ -8,8 +8,10 @@ This class is logically divided into units to be completed over a seven-week tim
 - Last day of classes:  May 1, 2024
 
 ### Important links:
+
 - [Zoom](https://arizona.zoom.us/j/83740442775)
 - [Zoom Recordings](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=97ef9efa-336a-4834-9815-b129011280c2)
+
 - [D2L](https://d2l.arizona.edu/d2l/home/1435548)
 - [Discussions](https://github.com/ua-gist604b-s24/syllabus/discussions)
 
@@ -25,11 +27,11 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/J2H9HitQ) | 3/11 | 3/18 | 10 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/Q-dRA1rw) | 3/11 | 3/18 | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
-|  2-0 QGIS Tutorials (Intro) | 3/13 | 3/20 | 10 |
-|  2-1 QGIS Tutorials (Intermediate) | 3/13 | 3/20 | 10 |
-|  2-2 QGIS Tutorials (Advanced) | 3/13 | 3/20 | 10 |
-|  2-3 QGIS Secret Mutant Hero Team | 3/13 | 3/20 | 10 |
-|  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
+|  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/wnoHjLNU) | 3/13 | 3/20 | 10 |
+|  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/Ea3_aeAA) | 3/13 | 3/20 | 10 |
+|  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/_7rhW51U) | 3/13 | 3/20 | 10 |
+|  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/-FWbMNKS) | 3/13 | 3/20 | 10 |
+|  **![docker](./media/docker-32.png)Module 3: Docker** |  |  |  |
 |  3-0 Codespace Intro | 3/20 | 3/27 | 10 |
 |  3-1 Docker  | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
