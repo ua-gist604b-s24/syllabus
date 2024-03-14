@@ -9,6 +9,7 @@ This class is logically divided into units to be completed over a seven-week tim
 
 ### Important links:
 - [Zoom](https://arizona.zoom.us/j/83740442775)
+- [Zoom Recordings](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=97ef9efa-336a-4834-9815-b129011280c2)
 - [D2L](https://d2l.arizona.edu/d2l/home/1435548)
 - [Discussions](https://github.com/ua-gist604b-s24/syllabus/discussions)
 
