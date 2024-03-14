@@ -18,6 +18,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
+| [Lecture 3/11/2024 - Introduction and Open Source](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48b2dba2-78d2-4d58-83af-b131004c4ed2) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/8FVZrdks) | 3/11 | 3/18 | 10 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/LuNel1UU) | 3/11 | 3/18 | 10 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
