@@ -27,13 +27,14 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [1-0 GitHub Branch](https://classroom.github.com/a/J2H9HitQ) | 3/11 | 3/18 | 10 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/Q-dRA1rw) | 3/11 | 3/18 | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
+| [Lecture 3/13/2024 - QGIS]https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=323bb383-f382-49be-86e8-b133004aac392) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/wnoHjLNU) | 3/13 | 3/20 | 10 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/Ea3_aeAA) | 3/13 | 3/20 | 10 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/_7rhW51U) | 3/13 | 3/20 | 10 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/-FWbMNKS) | 3/13 | 3/20 | 10 |
-|  **![docker](./media/docker-32.png)Module 3: Docker** |  |  |  |
-|  3-0 Codespace Intro | 3/20 | 3/27 | 10 |
-|  3-1 Docker  | 3/20 | 3/27 | 10 |
+|  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
+|  [3-0 Codespace Intro](https://classroom.github.com/a/OOdam6WB) | 3/20 | 3/27 | 10 |
+|  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
 |  4-1 Python Pandas | 3/25 | 4/1 | 10 |
