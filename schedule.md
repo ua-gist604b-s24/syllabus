@@ -4,12 +4,14 @@
 This class is logically divided into units to be completed over a seven-week time frame. All homework is due exactly one week after it is assigned. Note that the class builds on itself and content from early modules will be used in later modules.
 
 ### Key Dates (see [Registrar Dates and Deadlines](https://registrar.arizona.edu/dates-and-deadlines))
-- Class begins: Oct 12, 2023
-- Last day of classes:  Dec 6, 2023
+- Class begins: Mar 11, 2024
+- Last day of classes:  May 1, 2024
 
 ### Important links:
-- [Zoom]()
-- [Zoom folder]() (raw cloud recordings land here before they are edited and shared to this doc)
+
+- [Zoom](https://arizona.zoom.us/j/83740442775)
+- [Zoom Recordings](https://arizona.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx?folderID=97ef9efa-336a-4834-9815-b129011280c2)
+
 - [D2L](https://d2l.arizona.edu/d2l/home/1435548)
 - [Discussions](https://github.com/ua-gist604b-s24/syllabus/discussions)
 
@@ -18,12 +20,14 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
+| [Lecture 3/11/2024 - Introduction and Open Source](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48b2dba2-78d2-4d58-83af-b131004c4ed2) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/8FVZrdks) | 3/11 | 3/18 | 10 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/LuNel1UU) | 3/11 | 3/18 | 10 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/J2H9HitQ) | 3/11 | 3/18 | 10 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/Q-dRA1rw) | 3/11 | 3/18 | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
+| [Lecture 3/13/2024 - QGIS]https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=323bb383-f382-49be-86e8-b133004aac392) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/wnoHjLNU) | 3/13 | 3/20 | 10 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/Ea3_aeAA) | 3/13 | 3/20 | 10 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/_7rhW51U) | 3/13 | 3/20 | 10 |
