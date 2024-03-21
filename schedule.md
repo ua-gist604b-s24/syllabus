@@ -20,19 +20,21 @@ This class is logically divided into units to be completed over a seven-week tim
 |  **Name** | **Start Date** | **Due Date** | **Points** |
 | --- | --- | --- | ---  |
 |  **![open source](./media/open-source-32.png) Module 0: Introduction and Open Source** |  |  |  |
-| [Lecture 3/11/2024 - Introduction and Open Source](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48b2dba2-78d2-4d58-83af-b131004c4ed2) | | | |
+| ![zoom icon](media/play-icon.png) [Lecture 3/11 - Introduction and Open Source](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=48b2dba2-78d2-4d58-83af-b131004c4ed2) | | | |
 |  [0-0 GitHub Hello](https://classroom.github.com/a/8FVZrdks) | 3/11 | 3/18 | 10 |
 |  [0-1 Open Source Discovery](https://classroom.github.com/a/LuNel1UU) | 3/11 | 3/18 | 10 |
 |  **![git](./media/git-32.png) Module 1: Git and SCM** |  |  |  |
 |  [1-0 GitHub Branch](https://classroom.github.com/a/J2H9HitQ) | 3/11 | 3/18 | 10 |
 |  [1-1 GitHub Desktop](https://classroom.github.com/a/Q-dRA1rw) | 3/11 | 3/18 | 10 |
 |  **![qgis](./media/qgis-32.png) Module 2: QGIS** |  |  |  | 
+| ![zoom icon](media/play-icon.png) [Lecture 3/13 - QGIS](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=323bb383-f382-49be-86e8-b133004aac39) | | | |
 | [Lecture 3/13/2024 - QGIS](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=323bb383-f382-49be-86e8-b133004aac392) | | | |
 |  [2-0 QGIS Tutorials (Intro)](https://classroom.github.com/a/wnoHjLNU) | 3/13 | 3/20 | 10 |
 |  [2-1 QGIS Tutorials (Intermediate)](https://classroom.github.com/a/Ea3_aeAA) | 3/13 | 3/20 | 10 |
 |  [2-2 QGIS Tutorials (Advanced)](https://classroom.github.com/a/_7rhW51U) | 3/13 | 3/20 | 10 |
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/-FWbMNKS) | 3/13 | 3/20 | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
+| ![zoom icon](media/play-icon.png) [Lecture 3/18 - QGIS and Codespaces](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8466eb30-d81c-4606-9cbc-b138003b0d43) | | | |
 |  [3-0 Codespace Intro](https://classroom.github.com/a/OOdam6WB) | 3/20 | 3/27 | 10 |
 |  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
