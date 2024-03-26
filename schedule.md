@@ -38,10 +38,10 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
 |  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
-|  4-1 Python Pandas | 3/25 | 4/1 | 10 |
-|  4-2 Python GeoPandas Intro | 3/25 | 4/1 | 10 |
-|  4-3 Python GeoPandas Join | 3/27 | 4/3 | 10 |
-|  4-4 Python Rasterio | 3/27 | 4/3 | 10 |
+|  [4-0 Python Pandas](https://classroom.github.com/a/tNcizRL5) | 3/25 | 4/1 | 10 |
+|  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/8kvbftOH) | 3/25 | 4/1 | 10 |
+|  [4-2 Python GeoPandas Join](https://classroom.github.com/a/NWptj9Gq) | 3/27 | 4/3 | 10 |
+|  [4-3 Python Rasterio](https://classroom.github.com/a/KhowS9ih) | 3/27 | 4/3 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
 |  5-0 PostGIS Intro | 4/1 | 4/8 | 10 |
 |  5-1 PostGIS OSM Load | 4/3 | 4/10 | 10 |
