@@ -43,8 +43,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/NWptj9Gq) | 3/27 | 4/3 | 10 |
 |  [4-3 Python Rasterio](https://classroom.github.com/a/KhowS9ih) | 3/27 | 4/3 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
-|  5-0 PostGIS Intro | 4/1 | 4/8 | 10 |
-|  5-1 PostGIS OSM Load | 4/3 | 4/10 | 10 |
+|  [5-0 PostGIS Intro](https://classroom.github.com/a/s_w7QcCS) | 4/1 | 4/8 | 10 |
+|  [5-1 PostGIS OSM Load](https://classroom.github.com/a/HcAg11dl) | 4/3 | 4/10 | 10 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
 |  6-0 Geoserver Intro | 4/8 | 4/15 | 10 |
 |  6-1 Geoserver OSM I | 4/10 | 4/17 | 10 |
