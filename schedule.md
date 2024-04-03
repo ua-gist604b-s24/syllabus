@@ -46,9 +46,9 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/s_w7QcCS) | 4/1 | 4/8 | 10 |
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/HcAg11dl) | 4/3 | 4/10 | 10 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
-|  6-0 Geoserver Intro | 4/8 | 4/15 | 10 |
-|  6-1 Geoserver OSM I | 4/10 | 4/17 | 10 |
-|  6-2 Geoserver OSM II | 4/15 | 4/22 | 10 |
+|  [6-0 Geoserver Intro](https://classroom.github.com/a/gs04MuH-) | 4/8 | 4/15 | 10 |
+|  [6-1 Geoserver OSM I](https://classroom.github.com/a/E_X5jsHz) | 4/10 | 4/17 | 10 |
+|  [6-2 Geoserver OSM II](https://classroom.github.com/a/yEerllAG) | 4/15 | 4/22 | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  8-0 WebGIS - Leaflet | 4/17 | 4/24 | 10 |
 |  8-1 WebGIS - Python Web App | 4/22| 4/29 | 10 |
