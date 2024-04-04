@@ -34,16 +34,22 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [2-3 QGIS Secret Mutant Hero Team](https://classroom.github.com/a/-FWbMNKS) | 3/13 | 3/20 | 10 |
 |  **![docker](./media/docker-32.png) Module 3: Docker** |  |  |  |
 | ![zoom icon](media/play-icon.png) [Lecture 3/18 - QGIS and Codespaces](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=8466eb30-d81c-4606-9cbc-b138003b0d43) | | | |
+| ![zoom icon](media/play-icon.png) [Lecture 3/20 - ](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=96435969-95ae-43d3-8dc9-b13a00444e9c)
 |  [3-0 Codespace Intro](https://classroom.github.com/a/OOdam6WB) | 3/20 | 3/27 | 10 |
 |  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
-|  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
+|  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)]
+(https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
+| ![zoom icon](media/play-icon.png) [Lecture 3/25 - Python Pandas/Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d859f6bc-86a4-4b3f-93ec-b13f00473332)
 |  [4-0 Python Pandas](https://classroom.github.com/a/tNcizRL5) | 3/25 | 4/1 | 10 |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/8kvbftOH) | 3/25 | 4/1 | 10 |
+| ![zoom icon](media/play-icon.png) [Lecture 3/27 - Python Geopandas/Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf80246-be49-49bd-a59c-b14100545bf9)
 |  [4-2 Python GeoPandas Join](https://classroom.github.com/a/NWptj9Gq) | 3/27 | 4/3 | 10 |
-|  4-3 Python Rasterio - pending codespace config | 3/27 | 4/3 | 10 |
+|  [4-3 Python Rasterio](https://classroom.github.com/a/KhowS9ih)| 3/27 | 4/3 | 10 |
 |  **![postgis](./media/postgis-32.png) Module 5: PostGIS** |  |  |  |
+| ![zoom icon](media/play-icon.png) [Lecture 4/1 - PostGIS Intro](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4a118600-8af7-42c7-b71b-b146003ccf6d)
 |  [5-0 PostGIS Intro](https://classroom.github.com/a/s_w7QcCS) | 4/1 | 4/8 | 10 |
+| ![zoom icon](media/play-icon.png) [Lecture 4/3 - PostGIS OSM Load](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=a4e06652-3842-48fe-a758-b148005a79cb)
 |  [5-1 PostGIS OSM Load](https://classroom.github.com/a/HcAg11dl) | 4/3 | 4/10 | 10 |
 |  **![geoserver](./media/geoserver-32.png) Module 6: Geoserver** |  |  |  |
 |  6-0 Geoserver Intro | 4/8 | 4/15 | 10 |
