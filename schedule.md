@@ -38,9 +38,8 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [3-0 Codespace Intro](https://classroom.github.com/a/OOdam6WB) | 3/20 | 3/27 | 10 |
 |  [3-1 Docker](https://classroom.github.com/a/xt-dtgnf) | 3/20 | 3/27 | 10 |
 |  **![python](./media/python-32.png) Module 4: Python** |  |  |  |
-|  ![zoom icon](media/play-icon.png) _[Lecture from the Archive (Intro to Python)]
-(https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e)_ |  |  |  |
-| ![zoom icon](media/play-icon.png) [Lecture 3/25 - Python Pandas/Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d859f6bc-86a4-4b3f-93ec-b13f00473332)
+|  ![zoom icon](media/play-icon.png) [_Lecture from the Archive (Intro to Python)_](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=83304fba-424f-430f-87e1-adcc00448e6e) |  |  |  |
+| ![zoom icon](media/play-icon.png) [Lecture 3/25 - Python Pandas/Geopandas](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=d859f6bc-86a4-4b3f-93ec-b13f00473332) |  |  |  |
 |  [4-0 Python Pandas](https://classroom.github.com/a/tNcizRL5) | 3/25 | 4/1 | 10 |
 |  [4-1 Python GeoPandas Intro](https://classroom.github.com/a/8kvbftOH) | 3/25 | 4/1 | 10 |
 | ![zoom icon](media/play-icon.png) [Lecture 3/27 - Python Geopandas/Rasterio](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=5cf80246-be49-49bd-a59c-b14100545bf9)
