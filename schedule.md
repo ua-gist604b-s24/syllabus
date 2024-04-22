@@ -54,8 +54,10 @@ This class is logically divided into units to be completed over a seven-week tim
 | ![zoom icon](media/play-icon.png) [Lecture 4/7 - Geoserver I](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=e1395489-c131-4e32-a655-b14d003905c9)
 |  [6-0 Geoserver Intro](https://classroom.github.com/a/gs04MuH-) | 4/8 | 4/15 | 10 |
 | ![zoom icon](media/play-icon.png) [Lecture 4/15 - Geoserver 6-1](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=25afff2b-0161-469c-9ec7-b15400360004)
-|  [6-1 Geoserver OSM I](https://classroom.github.com/a/E_X5jsHz) | 4/15 | 4/22 | 10 |
-|  [6-2 Geoserver OSM II](https://classroom.github.com/a/yEerllAG) | 4/17 | 4/24 | 10 |
+|  ~6-1 Geoserver OSM I~|  |  | 10 |
+|  ~6-2 Geoserver OSM II~ |  |  | 10 |
+|  **![earth](./media/earth-32.png) Module 7: Earth Day** |  |  |  |
+|  [7-0 Earth Day Project](https://classroom.github.com/a/SvyYtRLM) | 4/3 | 4/10 | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
 |  8-0 WebGIS - Leaflet | 4/17 | 4/24 | 10 |
 |  8-1 WebGIS - Python Web App | 4/22| 4/29 | 10 |
