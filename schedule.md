@@ -57,12 +57,12 @@ This class is logically divided into units to be completed over a seven-week tim
 |  ~6-1 Geoserver OSM I~|  |  | 10 |
 |  ~6-2 Geoserver OSM II~ |  |  | 10 |
 |  **![earth](./media/earth-32.png) Module 7: Earth Day** |  |  |  |
-|  [7-0 Earth Day Project](https://classroom.github.com/a/SvyYtRLM) | 4/3 | 4/10 | 10 |
+|  [7-0 Earth Day Project](https://classroom.github.com/a/SvyYtRLM) | 4/22 | 4/29 | 10 |
 |  **![leaflet](./media/leaflet-32.png) Module 8: WebGIS** |  |  |  |
-|  8-0 WebGIS - Leaflet | 4/17 | 4/24 | 10 |
-|  8-1 WebGIS - Python Web App | 4/22| 4/29 | 10 |
+|  8-0 WebGIS - Leaflet | 4/24 | 5/1 | 10 |
+|  8-1 WebGIS - Python Web App | 4/24| 5/1 | 10 |
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
-|  9-0 GDAL | 4/24 | 5/1 | 10 |
+|  9-0 GDAL | 5/1 | 5/8 | 10 |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
