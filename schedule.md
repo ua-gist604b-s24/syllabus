@@ -65,7 +65,7 @@ This class is logically divided into units to be completed over a seven-week tim
 |  [8-1 WebGIS - Python Web App](https://classroom.github.com/a/t0zH1ytq) | 4/28| 5/8 | 10 |
 | ![zoom icon](media/play-icon.png) [Lecture 4/28 - Python Web App](https://arizona.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=999d02e2-9276-4464-bcd6-b161004be3bc)
 |  **![leaflet](./media/gdal-32.png) Module 9: GDAL/OGR** |  |  |  |
-|  9-0 GDAL | 5/1 | 5/8 | 10 |
+|  [Optional GDAL](https://classroom.github.com/a/n9T6lDfS) | n/a | n/a | n/a |
 
 ## Official Dates
 See https://www.registrar.arizona.edu/dates-and-deadlines
